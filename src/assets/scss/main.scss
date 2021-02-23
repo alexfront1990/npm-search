@@ -1,0 +1,30 @@
+// gloabal modal slots styles 
+
+.modal-content {
+  padding: 20px;
+  .title {
+    color: rgba(0,0,0,.87);
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+
+  }
+  &__title {
+    color: rgba(0,0,0,.87);
+    font-size: 1.25rem;
+    font-weight: 500;
+    
+  }
+  &__version {
+    color: rgba(0,0,0,.6);
+    font-size: 1rem;
+    margin: 0px 0px 20px 0px;
+  }
+  &__description {
+    margin: 0px 0px 20px 0px;
+  }
+  &__links {
+  }
+  
+}
+
